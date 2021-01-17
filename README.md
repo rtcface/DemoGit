@@ -10,3 +10,4 @@
 8. git checkout -b rama-desarrollo
 9. git branch
 10. git checkout master
+11. git branch -d rama-desarrollo
