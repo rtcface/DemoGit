@@ -13,3 +13,4 @@
 11. git branch -d rama-desarrollo # Elimina la rama
 12. git push # Sube los cambios al repositoro remoto 
 13. git commit -am "comentario" # # Permite unir los comandos . add commit en una solo linea 
+14. git push --set-upstream origin rama-desarrollo # sube la rama al repositorio remoto
