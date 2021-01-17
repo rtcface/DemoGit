@@ -11,3 +11,5 @@
 9. git branch
 10. git checkout master
 11. git branch -d rama-desarrollo
+12. git push
+13. git commit -am "comentario"
