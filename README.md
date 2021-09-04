@@ -16,4 +16,5 @@
 14. git push --set-upstream origin rama-desarrollo # sube la rama al repositorio remoto
 15. git merge rama-desarrrollo # une la rama con el main
 16. git update-ref -d HEAD Eliminará la referencia nombrada HEAD, por lo que restablecerá (suavemente, no perderá su trabajo) todas las confirmaciones de su rama actual.
+17. git config --global alias.st "diff --stat" Cambia los alias
 
